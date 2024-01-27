@@ -3,5 +3,4 @@ https://youtube-thumbnail-becodewala.netlify.app/
 
 
 
-
-![Tail (4)](https://github.com/becodewala-youtube/Youtube-Thumbnail-Downloader/assets/83962116/0428848a-202d-4fe3-94df-ef26a0ea478c)
+[![youtube](https://img.youtube.com/vi/eaFcKp20Fcc/0.jpg)](https://www.youtube.com/watch?v=eaFcKp20Fcc)
